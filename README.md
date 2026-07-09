@@ -80,10 +80,6 @@ This project was created to practice:
 * Component-based architecture
 * Basic state management
 
-## 📸 Screenshot
-
-*Add a screenshot here after deploying the project.*
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
