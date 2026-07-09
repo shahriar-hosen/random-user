@@ -1,0 +1,25 @@
+.user-list{
+    display: flex;
+    border: 1px solid rgb(41, 180, 204);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.user-picture img{
+    width: 300px;
+    margin-right: 10px;
+}
+.user-info{
+    text-align: left;
+}
+button{
+    background-color: black ;
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+button:hover{
+    color: black;
+    background-color: white;
+}
